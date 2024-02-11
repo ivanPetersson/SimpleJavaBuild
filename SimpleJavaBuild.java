@@ -1,9 +1,6 @@
-public class SimpleJavaBuild{
+public class SimpleJavaBuild {
 
-public static void main(String[] args) {
+  public static void main(String[] args) {
     System.out.println("Hello World");
-
-
-    
-}
+  }
 }
